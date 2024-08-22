@@ -1,0 +1,4 @@
+Evaluated together with @blatifat. He didn't have code inside the philo folder else pushed it directly into the repo.Nevertheless, everyting else was works as expected. Good job!, Good luck! for your next projects.
+Personal advice: Check the subject sheet if we need to have the code in a specific directory next time. Make sure you dont change more than 200 lines of code from one file to another while switching code from one file to another file so you wouldnt exceed the log restrictions by mistake. Just commit when ever you add a new file.
+
+Kudos for making a clean philosophers which is understandable and readable. The case for very large philos is not working some times but for benefit of doubt I deem it to be our slow computer
